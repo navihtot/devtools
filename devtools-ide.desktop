@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=TerminalURL
+Exec=/bin/ide_launch.sh %u
+Type=Application
+Categories=System;
+MimeType=x-scheme-handler/ide;
+Terminal=false
